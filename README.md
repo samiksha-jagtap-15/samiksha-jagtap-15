@@ -1,263 +1,406 @@
-# Hi, I'm Samiksha Jagtap 👋
+<div align="center">
 
-### Entry-Level IT Infrastructure & Windows Server Professional
+# 👋 Hi, I'm Samiksha Jagtap
 
-> **Building a strong foundation in infrastructure, networking, Linux,
-> virtualization, cloud, and security --- one practical lab at a time.**
+### `IT Infrastructure` • `Windows Server` • `Networking` • `Linux` • `Cloud & Security`
 
-I'm a B.Tech graduate in **Cloud Technology and Information Security**
-from **Sandip University**, with hands-on technical training and lab
-experience across Windows Server administration, networking, Linux,
-virtualization, and IT support.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Windows+Server+%7C+Active+Directory+%7C+DNS+%7C+DHCP;Networking+%7C+Linux+%7C+Virtualization;Building+Infrastructure+Skills+One+Lab+at+a+Time;Learning+Cloud+Infrastructure+%26+Security" />
 
-Currently, I'm working as a **Technical Support Engineer at Bits and
-Bytes Services** while continuing to strengthen my infrastructure and
-cloud-security skills.
+<br>
 
-------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2F81F7&style=flat-square" />
 
-## 🧭 My IT Journey
+</div>
 
-``` text
-Hardware & IT Support
-        ↓
-Networking & CCNA
-        ↓
-Linux / RHEL
-        ↓
-Windows Server & Active Directory
-        ↓
-Virtualization
-        ↓
-Cloud Infrastructure
-        ↓
-Cloud & Infrastructure Security
+---
+
+## 🧑‍💻 About Me
+
+```text
+Name        : Samiksha Jagtap
+Role        : Technical Support Engineer
+Location    : Nashik, Maharashtra, India
+Education   : B.Tech - Cloud Technology & Information Security
+Focus       : IT Infrastructure → Cloud → Security
+Mindset     : Learn • Build • Break • Troubleshoot • Improve
+````
+
+I am an **entry-level IT Infrastructure professional** with hands-on training and
+practical lab experience in **Windows Server, Networking, Linux, Virtualization
+and System Administration**.
+
+Currently working as a **Technical Support Engineer**, while continuously
+building deeper skills in infrastructure, cloud and security.
+
+My approach is simple:
+
+> **Don't just learn the technology. Build it, break it, troubleshoot it and understand why it works.**
+
+---
+
+# 🏗️ My Infrastructure Journey
+
+```mermaid
+flowchart LR
+
+A[💻 Hardware] --> B[🌐 Networking]
+B --> C[🪟 Windows Server]
+C --> D[👥 Active Directory]
+D --> E[🔐 Security]
+E --> F[☁️ Cloud Infrastructure]
+
+B --> G[🐧 Linux]
+G --> H[🐳 Docker]
+H --> F
+
+C --> I[⚙️ PowerShell]
+I --> J[🤖 Automation]
+J --> F
+
+F --> K[🛡️ Cloud Security]
 ```
 
-My goal is to grow from a strong infrastructure foundation into a
-skilled **Cloud & Security professional**.
-
-------------------------------------------------------------------------
-
-## 🛠️ What I Work With
-
-### 🪟 Windows Server & System Administration
-
--   Windows Server 2019 / 2022
--   Active Directory & Domain Services
--   User administration
--   DNS & DHCP
--   Group Policy & Local Policies
--   Windows Firewall
--   Server roles and features
--   Web server & website hosting
--   FTP
--   Backup & recovery
--   PowerShell & automation
--   Server hardening
--   Task scheduling
--   File and drive mapping
-
-### 🌐 Networking
-
--   TCP/IP
--   IP addressing
--   LAN connectivity
--   DHCP
--   VLAN
--   ACL
--   NAT
--   Routing & switching fundamentals
--   Network troubleshooting
--   Wireless networking
-
-### 🐧 Linux / RHEL
-
--   RHEL installation
--   Users & groups
--   Permissions & ACL
--   IPv4 / IPv6
--   Storage
--   Services
--   Firewall
--   Logs
--   SSH
--   DNS
--   FTP
--   NFS
--   Samba
--   HTTP / virtual hosting
--   Docker
-
-### 💻 Hardware & IT Support
-
--   PC / laptop assembly and disassembly
--   Windows installation
--   BIOS / UEFI
--   RAM, HDD / SSD and SMPS
--   Device Manager
--   Disk Management
--   Hardware testing
--   Upgrades & preventive maintenance
-
-### ☁️ Virtualization & Infrastructure
-
--   VMware
--   VirtualBox
--   Windows Server virtual labs
--   Linux virtual labs
--   Server-to-client resource mapping
-
-------------------------------------------------------------------------
-
-## 🚀 Featured Project
-
-### Windows Server Enterprise Domain & Services Lab
-
-A practical Windows Server lab designed to understand an end-to-end
-enterprise administration workflow.
-
-**Implemented / Practiced:**
-
--   Windows Server 2019/2022 deployment
--   Active Directory and domain services
--   User lifecycle administration
--   Group Policy and Local Policies
--   DNS and DHCP
--   IP configuration
--   Windows Firewall
--   Server hardening
--   Web server and FTP services
--   Network Load Balancing concepts
--   PDC, CDC and RODC concepts
--   File, folder and drive mapping
--   Data quota concepts
--   Backup and recovery
--   PowerShell and automation
--   Task scheduling
--   VMware / VirtualBox virtualization
-
-> **Project focus:** Learn infrastructure by building, configuring,
-> testing, troubleshooting, and documenting practical lab environments.
-
-------------------------------------------------------------------------
-
-## 🎓 Education
-
-**B.Tech --- Cloud Technology and Information Security**\
-**Sandip University**\
-August 2022 -- June 2026
-
-------------------------------------------------------------------------
-
-## 💼 Current Role
-
-**Technical Support Engineer**\
-**Bits and Bytes Services**\
-May 2026 -- Present \| Nashik, Maharashtra, India
-
-------------------------------------------------------------------------
-
-## 📚 Professional Training
-
--   MCSA / Windows Server Administration Training
--   CCNA Training
--   Networking Training
--   Hardware Training
--   Red Hat Linux Training
-
-> These represent training programs and practical learning areas rather
-> than claims of formal vendor certification.
-
-------------------------------------------------------------------------
-
-## 🎯 Current Career Focus
-
-I'm interested in opportunities where I can build real-world experience
-in:
-
-`IT Infrastructure` • `Windows Server` • `System Administration` •
-`Network Support` • `Linux Administration` • `Cloud Operations` •
-`Infrastructure Security`
-
-### Long-term direction
+### My current direction
 
 **Infrastructure → Cloud → Security**
 
-I believe strong cloud and security skills start with understanding what
-happens underneath: operating systems, servers, networks, users,
-services, permissions, and troubleshooting.
+---
 
-------------------------------------------------------------------------
+# 🛠️ Technical Skills
 
-## 🧪 How I Learn
+### 🪟 Windows Server
 
-I prefer **hands-on learning over memorizing commands**.
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-4285F4?style=for-the-badge)
+![Group Policy](https://img.shields.io/badge/Group%20Policy-0078D4?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
-``` text
-Learn the concept
-      ↓
-Build it in a lab
-      ↓
-Break it intentionally
-      ↓
-Troubleshoot the problem
-      ↓
-Document the solution
-      ↓
-Repeat
+* Windows Server 2019 / 2022
+* Active Directory & Domain Services
+* User administration
+* Group Policy
+* Local Policies
+* DNS & DHCP
+* Windows Firewall
+* Server roles & features
+* Web Server / Website Hosting
+* FTP
+* Backup & Recovery
+* PowerShell
+* Server hardening
+* Task scheduling
+
+---
+
+### 🌐 Networking
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-2F81F7?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-FF6F00?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT-6A1B9A?style=for-the-badge)
+
+```text
+TCP/IP
+IP Addressing
+LAN
+DHCP
+VLAN
+ACL
+NAT
+Routing & Switching
+Network Troubleshooting
+Wireless Networking
 ```
 
-This approach helps me turn theoretical knowledge into practical
-administration skills.
+---
 
-------------------------------------------------------------------------
+### 🐧 Linux
 
-## 📈 Currently Improving
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Red Hat](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
--   Advanced Windows Server administration
--   Networking & CCNA concepts
--   Linux administration
--   PowerShell
--   Virtualization
--   Cloud infrastructure
--   Infrastructure security
--   Practical troubleshooting
--   Technical communication
+```text
+RHEL Installation
+Users & Groups
+Permissions
+ACL
+IPv4 / IPv6
+Storage
+Services
+Firewall
+Logs
+SSH
+DNS
+FTP
+NFS
+Samba
+HTTP / Virtual Hosting
+Docker
+```
 
-------------------------------------------------------------------------
+---
 
-## 🤝 Let's Connect
+### 🖥️ Virtualization & Infrastructure
 
-I'm open to connecting with:
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge\&logo=vmware\&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge\&logo=virtualbox\&logoColor=white)
 
--   IT Infrastructure professionals
--   System Administrators
--   Network Engineers
--   Windows Server Administrators
--   Cloud Engineers
--   Cybersecurity professionals
--   Recruiters hiring entry-level IT talent
+```text
+VMware
+VirtualBox
+Windows Server Virtual Labs
+Linux Virtual Labs
+Server-to-Client Mapping
+Infrastructure Testing
+```
 
-📍 **Nashik, Maharashtra, India**
+---
 
-🔗 **LinkedIn:** [Connect with me on
-LinkedIn](https://www.linkedin.com/in/samiksha-jagtap-44b137309)
+# 🚀 Featured Project
 
-📧 **Email:** samikshajagtap7020@gmail.com
+## 🏢 Windows Server Enterprise Domain & Services Lab
 
-------------------------------------------------------------------------
+> A practical enterprise-style Windows Server environment built to understand
+> server deployment, domain administration, networking, security and services.
 
-## 💡 A Little About Me
+### 🔧 Environment
 
-I don't believe in waiting until I "know everything" before building
-something.
+```text
+                 ┌──────────────────────────┐
+                 │     Windows Server       │
+                 │       2019 / 2022        │
+                 └────────────┬─────────────┘
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+      Active Directory       DNS              DHCP
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                              ▼
+                     ┌────────────────┐
+                     │ Windows Client │
+                     └───────┬────────┘
+                             │
+                 ┌───────────┼───────────┐
+                 ▼           ▼           ▼
+              Policies    File Share   Services
+                 │
+                 ▼
+              Security
+```
 
-**I learn → I practice → I troubleshoot → I improve.**
+### Implemented / Practiced
 
-> 🌱 **Small labs today. Strong infrastructure skills tomorrow.**
+* ✅ Windows Server 2019/2022 deployment
+* ✅ Active Directory
+* ✅ Domain Services
+* ✅ User lifecycle administration
+* ✅ Group Policy
+* ✅ Local Policies
+* ✅ DNS
+* ✅ DHCP
+* ✅ IP configuration
+* ✅ Windows Firewall
+* ✅ Server hardening
+* ✅ Web Server
+* ✅ FTP
+* ✅ Network Load Balancing concepts
+* ✅ PDC / CDC / RODC concepts
+* ✅ File and drive mapping
+* ✅ Backup & Recovery
+* ✅ PowerShell
+* ✅ Automation
+* ✅ Task Scheduling
+* ✅ VMware / VirtualBox
 
-------------------------------------------------------------------------
+---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories
-and follow my learning journey.*
+# 🧪 My Lab Philosophy
+
+```text
+             ┌───────────────┐
+             │  Learn Theory │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │  Build a Lab  │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Break Things  │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Troubleshoot  │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │ Document Fix  │
+             └───────┬───────┘
+                     ↓
+             ┌───────────────┐
+             │     Repeat    │
+             └───────────────┘
+```
+
+I believe practical troubleshooting is one of the most important skills in
+IT infrastructure.
+
+---
+
+# 🎓 Education
+
+### 🎓 B.Tech — Cloud Technology & Information Security
+
+**Sandip University**
+
+`August 2022 – June 2026`
+
+---
+
+# 💼 Professional Experience
+
+### Technical Support Engineer
+
+**Bits and Bytes Services**
+
+`May 2026 – Present`
+
+📍 Nashik, Maharashtra, India
+
+---
+
+# 📚 Professional Training
+
+```text
+MCSA / Windows Server Administration
+CCNA
+Networking
+Red Hat Linux
+Hardware & IT Support
+```
+
+> Training programs are listed as learning/training experience rather than
+> formal vendor certifications unless officially certified.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+# 🔐 Infrastructure Mindset
+
+```text
+Servers
+   ↓
+Operating Systems
+   ↓
+Networks
+   ↓
+Identity & Access
+   ↓
+Services
+   ↓
+Security
+   ↓
+Automation
+   ↓
+Cloud
+```
+
+Understanding the foundation makes it easier to understand the cloud.
+
+That's the direction I'm following.
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Windows Server Administration
+  - Networking & CCNA
+  - Linux Administration
+  - PowerShell
+  - Virtualization
+  - Cloud Infrastructure
+  - Infrastructure Security
+
+Career_Path:
+  - IT Infrastructure
+  - System Administration
+  - Network Support
+  - Cloud Operations
+  - Cloud Security
+```
+
+---
+
+# 🌱 2026 → Next Level
+
+```text
+[████████████████░░░░] Infrastructure
+[██████████████░░░░░░] Networking
+[████████████░░░░░░░░] Linux
+[████████████░░░░░░░░] Windows Server
+[██████████░░░░░░░░░░] Virtualization
+[████████░░░░░░░░░░░░] Cloud
+[██████░░░░░░░░░░░░░░] Security
+```
+
+> The goal isn't to know everything.
+> **The goal is to become better every day.**
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samiksha-jagtap-44b137309">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:samikshajagtap7020@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build. Break. Fix. Learn. Repeat.
+
+**Infrastructure today. Cloud tomorrow. Security always.**
+
+⭐ *Thanks for visiting my GitHub profile!*
+
+</div>
